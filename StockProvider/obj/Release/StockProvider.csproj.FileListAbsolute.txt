@@ -1,0 +1,12 @@
+C:\Users\Amit\Documents\InstrumentMonitor\StockProvider\bin\Release\StockProvider.dll
+C:\Users\Amit\Documents\InstrumentMonitor\StockProvider\bin\Release\StockProvider.pdb
+C:\Users\Amit\Documents\InstrumentMonitor\StockProvider\bin\Release\Microsoft.CSharp.dll
+C:\Users\Amit\Documents\InstrumentMonitor\StockProvider\bin\Release\System.Data.DataSetExtensions.dll
+C:\Users\Amit\Documents\InstrumentMonitor\StockProvider\bin\Release\System.Data.dll
+C:\Users\Amit\Documents\InstrumentMonitor\StockProvider\bin\Release\System.dll
+C:\Users\Amit\Documents\InstrumentMonitor\StockProvider\bin\Release\System.Xml.dll
+C:\Users\Amit\Documents\InstrumentMonitor\StockProvider\bin\Release\System.Xml.Linq.dll
+C:\Users\Amit\Documents\InstrumentMonitor\StockProvider\bin\Release\WindowsBase.dll
+C:\Users\Amit\Documents\InstrumentMonitor\StockProvider\obj\Release\StockProvider.csprojResolveAssemblyReference.cache
+C:\Users\Amit\Documents\InstrumentMonitor\StockProvider\obj\Release\StockProvider.dll
+C:\Users\Amit\Documents\InstrumentMonitor\StockProvider\obj\Release\StockProvider.pdb

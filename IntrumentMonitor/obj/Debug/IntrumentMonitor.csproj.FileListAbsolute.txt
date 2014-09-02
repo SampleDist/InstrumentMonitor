@@ -1,0 +1,5 @@
+C:\Users\Amit\Documents\InstrumentMonitor\IntrumentMonitor\obj\Debug\IntrumentMonitor.csprojResolveAssemblyReference.cache
+C:\Users\Amit\Documents\InstrumentMonitor\IntrumentMonitor\obj\Debug\WatchList.g.cs
+C:\Users\Amit\Documents\InstrumentMonitor\IntrumentMonitor\obj\Debug\App.g.cs
+C:\Users\Amit\Documents\InstrumentMonitor\IntrumentMonitor\obj\Debug\IntrumentMonitor_MarkupCompile.cache
+C:\Users\Amit\Documents\InstrumentMonitor\IntrumentMonitor\obj\Debug\IntrumentMonitor_MarkupCompile.lref
